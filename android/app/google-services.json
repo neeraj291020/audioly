@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068435014788",
+    "project_id": "audioly-e1690",
+    "storage_bucket": "audioly-e1690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068435014788:android:0dccd590cd5b200ea36ed1",
+        "android_client_info": {
+          "package_name": "com.neerajchanchlani.audioly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068435014788-4b17554m1807kc846rp4ds15fqsmkvih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVfoK4NvbndnigO1zvdVsIyb92essfX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068435014788-4b17554m1807kc846rp4ds15fqsmkvih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
